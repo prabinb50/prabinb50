@@ -2,7 +2,8 @@
 Passionate about web development, skilled in the MERN Stack, and driven to keep learning as a software engineer. Familiar with **HTML**, **CSS (including Tailwind CSS)**, **JavaScript**, **TypeScript**, **React.js**, and **Next.js** as well as backend technologies like **Node.js** and **Express.js**. Also knowledgeable in **MySQL**, **MongoDB**, and **Supabase** for database management. Gained basic skills in **Python** as well as in **Java**. Worked on various **ML** and **DL** projects, showcasing a growing foundation in machine learning and deep learning. Committed to continuous learning and innovation in the field of technology.
 😄 **Fun fact:** I Love Tech and Tech Loves Me.
 
-Email Me 👉 ✉️ **joshiprabin17@gmail.com** or **joshiprabin45@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **joshiprabin17@gmail.com** or **joshiprabin45@gmail.com** 
+For Collaboration/Project or Anything Else. 😊😊
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=prabinb50&theme=radical&no-frame=false&no-bg=true&margin-w=4)
