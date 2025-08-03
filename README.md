@@ -4,6 +4,8 @@ Passionate about web development, skilled in the MERN Stack, and driven to keep 
 
 Email Me 👉 ✉️ **joshiprabin17@gmail.com** or **joshiprabin45@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=prabinb50&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/joshi_prabin1006) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabin-joshi-3854ab258/)  
@@ -15,6 +17,3 @@ Email Me 👉 ✉️ **joshiprabin17@gmail.com** or **joshiprabin45@gmail.com** 
 ![](https://github-readme-stats.vercel.app/api?username=prabinb50&theme=aura&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=prabinb50&theme=aura&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prabinb50&theme=aura&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=prabinb50&theme=radical&no-frame=false&no-bg=true&margin-w=4)
