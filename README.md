@@ -1,8 +1,20 @@
-# 💫 Hi 👋, I'm Prabin Joshi
-Passionate about software engineering, skilled in the MERN Stack and Next.js, and driven to keep learning as a software engineer. Familiar with **HTML**, **CSS (including Tailwind CSS)**, **JavaScript**, **TypeScript**, and **React.js** as well as backend technologies like **Node.js** and **Express.js**. Also knowledgeable in **MySQL**, **MongoDB**, and **Supabase** for database management. Gained basic skills in **Python** as well as in **Java**. Worked on various **ML** and **DL** projects, showcasing a growing foundation in machine learning and deep learning. Committed to continuous learning and innovation in the field of technology.<br/>
-😄 **Fun fact:** I Love Tech and Tech Loves Me.
+# Hi there 👋 I'm Prabin Joshi
 
-Feel free to reach out via email 👉 joshiprabin17@gmail.com or joshiprabin45@gmail.com for any collaboration or project. 😊
+I'm a Software Developer specializing in React and Next.js, with a strong interest in frontend development and a passion for building modern, responsive, and user-friendly web and mobile applications. I also enjoy full-stack development, where I can design and build complete solutions from the frontend to the backend. I primarily work with React, Next.js, TypeScript, Node.js, and Express.js, turning ideas into clean and reliable software.
+
+I have professional experience as a **Junior Software Engineer** at **Fusobotics Nepal Pvt. Ltd.**, where I worked on frontend development, REST API integration, authentication systems, microservices, and scalable application architecture. I enjoy writing clean, maintainable code while continuously improving application performance and user experience.
+
+Outside of work, I love exploring new technologies, building full-stack projects, and improving my skills as a developer. I've also worked on AI and computer vision projects, earning awards at hackathons for developing machine learning solutions.
+
+🚀 Always learning, always building.
+
+📫 Feel free to reach out:
+
+* **Email:** [joshiprabin17@gmail.com](mailto:joshiprabin17@gmail.com)
+* **Alternative:** [joshiprabin45@gmail.com](mailto:joshiprabin45@gmail.com)
+
+😄 Fun fact: I love tech, and tech loves me.
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/joshi_prabin1006) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabin-joshi-3854ab258/)  
