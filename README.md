@@ -2,7 +2,7 @@
 
 I'm a Software Developer specializing in React and Next.js, with a strong interest in frontend development and a passion for building modern, responsive, and user-friendly web and mobile applications. I also enjoy full-stack development, where I can design and build complete solutions from the frontend to the backend. I primarily work with React, Next.js, TypeScript, Node.js, and Express.js, turning ideas into clean and reliable software.
 
-I have professional experience as a **Junior Software Engineer** at **Fusobotics Nepal Pvt. Ltd.**, where I worked on frontend development, REST API integration, authentication systems, microservices, and scalable application architecture. I enjoy writing clean, maintainable code while continuously improving application performance and user experience.
+I have professional experience as a **Junior React/Next.js Developer** at **Fusobotics Nepal Pvt. Ltd.**, where I worked on frontend development, REST API integration, authentication systems, microservices, and scalable application architecture. I enjoy writing clean, maintainable code while continuously improving application performance and user experience.
 
 Outside of work, I love exploring new technologies, building full-stack projects, and improving my skills as a developer. I've also worked on AI and computer vision projects, earning awards at hackathons for developing machine learning solutions.
 
